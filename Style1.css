@@ -1,0 +1,23 @@
+img{
+  border-radius: 10px;
+  filter: blur(0px);
+  filter: opacity(50%);
+}
+
+table{
+  border-style: none;
+}
+
+th{
+  border-style: none;
+}
+
+body{
+background-image:url("mac-os-sierra-color-splash-purple-do.jpg");
+background-position: middle;
+background-size: 100%
+}
+
+a:hover{
+  color:red;
+}

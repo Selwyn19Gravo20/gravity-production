@@ -1,0 +1,39 @@
+img{
+  border-radius: 10px;
+  filter: blur(0px);
+  filter: opacity(50%);
+}
+
+table{
+  border-style: none;
+}
+
+th{
+  border-style: none;
+}
+
+body{
+background-image:url("#");
+background-position: middle;
+background-size: cover;
+background-attachment: fixed;
+background-repeat: no-repeat;
+}
+
+h3{
+  color:green;
+}
+
+a:hover{
+  color:red;
+}
+
+h3{
+  color:white;
+}
+
+video{
+  border-radius: 25px;
+  border: 0px solid rgba(255,255,255,0.5);
+  margin: 0;
+}
